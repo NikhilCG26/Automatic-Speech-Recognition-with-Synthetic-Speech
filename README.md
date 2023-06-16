@@ -1,5 +1,5 @@
 # Automatic-Speech-Recognition-with-Synthetic-Speech
-Introduction to Deep Learning (11.785) - Project 
+Introduction to Deep Learning (11.785) - Project [[Paper]](https://github.com/NikhilCG26/Automatic-Speech-Recognition-with-Synthetic-Speech/blob/main/IDL_Project___Final_Report.pdf)
 
 This paper explores a solution to one of the main factors stunting the acceleration of
 state-of-the-art speech recognition systems. This is the acquisition of high-quality
